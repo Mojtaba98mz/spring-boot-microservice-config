@@ -21,4 +21,4 @@ management:
 server:
   port: 8082
 app:
-  welcome: halo
+  welcome: hehe
